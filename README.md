@@ -3,7 +3,8 @@ jacoco-maven-example
 
 this is maven project, which creates jacoco.exec report file, which can be used by sonar-runner
 
-to run: 
+to run:
+
 mvn clean package
 sonar-runner
 
