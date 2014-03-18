@@ -6,6 +6,7 @@ this is maven project, which creates jacoco.exec report file, which can be used 
 to run:
 
 mvn clean package
+
 sonar-runner
 
 
